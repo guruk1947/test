@@ -1,0 +1,10 @@
+docker images : shows all images
+docker pull image_name: pulls an image
+docker run ubuntu : runs an image
+docker ps -a: lists all running and stopped containers
+docker ps -l: gives latest container
+docker start container_id: starts a container
+docker stop container_id: stops it
+docker images: shows all pulled images
+docker rm container_id -f: removes a container
+docker 
